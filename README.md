@@ -1,2 +1,2 @@
 # ESE136
-Code used in ESE 136, "Climate Models"
+Code used in Caltech's class ESE 136, "Climate Models"
